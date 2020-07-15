@@ -1,0 +1,15 @@
+.map {
+  width: 49vw;
+  height: 49vw;
+  margin: 0% auto;
+  border-radius: 5%;
+  border-style: solid;
+  border-width: thick ;
+  border-color: darkblue;
+}
+
+
+.bg{
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+}
